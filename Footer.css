@@ -1,0 +1,144 @@
+.footer-background{
+    background-color:#340068!important;
+    width:100%;
+    overflow: hidden;
+}
+.footer-border-style{
+    border-bottom:1px solid #D9D9D933;
+}
+.footer-start-text{
+color:#FFFFFF99;
+font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+text-align: left;
+}
+.email-bar-sec{
+    max-width: 590px;
+    height:50px;
+}
+.email-bar-style{
+    font-family: Inter;
+    font-size: 14px!important;
+    font-weight: 400!important;
+    text-align: left;
+    max-height:36px;
+    border-radius:42px!important;
+    background-color:#340068!important;
+    border:1px solid #fff!important;
+}
+.email-bar-style::placeholder{
+    color:white!important;
+}
+.join-button{
+    border-radius: 25px!important;
+    background: #fff;
+    position: absolute;
+    right: 1px;
+    background-color:#FAA916!important;
+}
+.footer-text-head{
+color:#FFFFFF;
+font-family: Inter;
+font-size: 14px;
+font-weight: 700;
+line-height: 17px;
+letter-spacing: 0em;
+text-align: left;
+}
+.footer-email-bar{
+height: 50px;
+border-radius: 25px;
+border:none;
+}
+
+.footer-logo{
+    width:184px;
+    height:40px;
+}
+.footer-text-para{
+font-family: Inter;
+font-size: 14px;
+font-weight: 500;
+line-height: 17px;
+letter-spacing: 0em;
+text-align: left;
+color:#FFFFFF99;
+padding: 0px 8px 0px 0px;
+}
+.toll-free-text{
+font-family: Inter;
+font-size: 14px;
+font-weight: 500;
+line-height: 17px;
+letter-spacing: 0em;
+text-align: left;
+color:#FFFFFF99;
+}
+.toll-free-no{
+font-family: Inter;
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+color:#FFFFFF;
+}
+.footer-right-border{
+    border-bottom:1px solid #FFFFFF33;
+
+}
+.Social-media-text{
+font-family: Inter;
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+color:#FFFFFF;
+}
+ul.footer-list-style{
+    padding:0px;
+    margin:0px;
+}
+.footer-list-item{
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    list-style-type: none;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+    color:#FFFFFF99;    
+}
+
+.footer-input-field{
+    display:flex;
+}
+
+.join-button-text{
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+    color:#333333;
+}
+.copyright{
+    color:#FFFFFF;
+    text-align: center;
+}
+/* media query for footer */
+@media (max-width:768px){
+    .footer-left-sec{
+        padding-top:20px;
+    }
+}
+.btn-style{
+    margin: 0 10px;
+}
+/* .form-control{
+    border-radius:25px!important;
+    border:none!important;
+} */
